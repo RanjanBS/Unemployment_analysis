@@ -7,11 +7,12 @@ Unemployment analysis using machine learning leverages data-driven algorithms to
   Data Analysis and Visualization
   Contributing
   License
-Getting Started
+  
+# Getting Started
 To run the code in this repository, you'll need to have Python and the required libraries installed. You can install the necessary libraries using pip:
 
 bash
-Copy code
+
 pip install numpy pandas matplotlib seaborn plotly
 Clone this repository to your local machine:
 
