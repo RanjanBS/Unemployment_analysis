@@ -9,24 +9,14 @@ Unemployment analysis using machine learning leverages data-driven algorithms to
   
 # Getting Started
 To run the code in this repository, you'll need to have Python and the required libraries installed. You can install the necessary libraries using pip:
-
-bash
-
 pip install numpy pandas matplotlib seaborn plotly
-Clone this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/unemployment-rate-analysis.git
-cd unemployment-rate-analysis
 
 # Data Cleaning
 In the data cleaning section of the code, we perform the following tasks:
-
-Check for and display the count of missing values in the dataset.
-Fill missing values with zeros and with the mean of their respective columns.
-Rename columns for better readability.
-Convert date columns to datetime format.
+ Check for and display the count of missing values in the dataset.
+ Fill missing values with zeros and with the mean of their respective columns.
+ Rename columns for better readability.
+ Convert date columns to datetime format.
 
 # Data Analysis and Visualization
 The code then proceeds to analyze and visualize the data:
