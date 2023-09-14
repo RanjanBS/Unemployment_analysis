@@ -21,7 +21,7 @@ In the data cleaning section of the code, we perform the following tasks:
 # Data Analysis and Visualization
  The code then proceeds to analyze and visualize the data:
  * Create heatmaps to visualize correlations between unemployment rate, employment, and labor participation rate.
- *Generate histograms to explore the distribution of unemployment rates by region.
+ * Generate histograms to explore the distribution of unemployment rates by region.
  * Calculate and display the average employment rate by region using a bar chart.
 
 # Contributing
