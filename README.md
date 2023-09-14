@@ -2,10 +2,10 @@
 Unemployment analysis using machine learning leverages data-driven algorithms to predict, understand, and address unemployment trends and factors in diverse economic contexts.
 
 # Table Of Contents
-  Getting Started
-  Data Cleaning
-  Data Analysis and Visualization
-  Contributing
+  * Getting Started
+  * Data Cleaning
+  * Data Analysis and Visualization
+  * Contributing
   
 # Getting Started
 To run the code in this repository, you'll need to have Python and the required libraries installed. You can install the necessary libraries using pip:
